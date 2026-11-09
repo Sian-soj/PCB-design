@@ -1,0 +1,3 @@
+part,description,quantity,unit_price_inr_at_300,line_total_inr,source_link
+PCB,"40 x 40 mm, 2-layer, 1.6 mm FR-4",1,,,https://www.lioncircuits.com/
+EXAMPLE: RGB LED,"5 mm self-cycling RGB LED, through-hole",2,4.00,8.00,https://example.com/replace-with-real-link
